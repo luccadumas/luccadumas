@@ -1,7 +1,8 @@
 # Hi there, I am Lucca Dumas 👋
 
-🌟 I’m currently working as a Full Stack Developer — React, Node.js, NestJS  
-📚 I’m currently learning advanced architecture and testing (Cypress, Jest, React Testing Library)  
+🌟 Full Stack Developer — React, Node.js, NestJS, Java & Spring Boot  
+🤖 Exploring AI integrations, automation and scalable architectures  
+📚 Studying advanced software architecture and testing (Cypress, Jest, React Testing Library)  
 🚀 Passionate about scalable systems, performance and clean code  
 
 ---
@@ -14,15 +15,27 @@
 
 ## 🚀 Tech Stack
 
-<div style="display: flex; gap: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*vkXJnUo4J_uukLutxZ1vrA.png" height="40" alt="NestJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+- OpenAI API Integrations
+- AI-powered workflows
+- Automation and scalable backend services
+- Prompt engineering and AI-assisted development
 
 ---
 
