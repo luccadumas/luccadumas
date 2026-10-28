@@ -88,13 +88,13 @@ Artificial Intelligence
 
 ---
 
+
 ### 📈 GitHub Activity
 
-<div align="center">
+Check out my contributions, repositories and open-source projects directly on my GitHub profile.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luccadumas&theme=github-compact&hide_border=true)
+[![GitHub](https://img.shields.io/badge/View_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luccadumas)
 
-</div>
 
 ---
 
