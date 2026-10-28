@@ -88,13 +88,15 @@ Artificial Intelligence
 
 ---
 
+## 📊 GitHub Stats
 
-### 📈 GitHub Activity
+<div align="center">
 
-Check out my contributions, repositories and open-source projects directly on my GitHub profile.
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luccadumas&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![GitHub](https://img.shields.io/badge/View_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luccadumas)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=luccadumas&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
 
 ---
 
